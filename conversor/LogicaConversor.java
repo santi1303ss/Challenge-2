@@ -16,11 +16,13 @@ public class LogicaConversor {
 	String dineroConvertido;
 	
 	// indices para convertir la moneda colombiana a la extranjera 
-	Double[] conversion = { 1.0, 4810.00, 5087.00, 5784.00, 35.00, 4.00 };
+	Double[] conversion = { 1.0, 4808.00, 5102.00, 5784.00, 35.00, 4.00, 64.00, 88.00, 697.00, 932.14, 265.6};
 	
 	// Simbolos moneda
-	String[] simboloMoneda = { "COP", "USD", "EUR", "GBP", "JPY", "KRW" };
-	String [] monedas = {"pesos Colombianos", "Dolar", "Euros", "Libras esterlinas", "Yen Japones", "Won sul-coreano"};
+	String[] simboloMoneda = { "COP", "USD", "EUR", "GBP", "JPY", "KRW",
+			" RUBL","PhP","¥","BRL","MXN"};
+	String [] monedas = {"pesos Colombianos", "Dolar", "Euros", "Libras esterlinas", "Yen Japones", "Won sul-coreano",
+			"Russian Ruble","Philippine Peso","Chinese Yuan", "Real Brasilenho", "Peso Mexicano"};
 	
 	
 	// Constructor
@@ -82,13 +84,13 @@ public class LogicaConversor {
 		cbMonedaOrigen.removeAllItems();
 		if(invertirConversionMoneda == false) {
 			cbMonedaOrigen.addItem(monedas[0]);
-			for(int i = 1; i <= 5; i++) {
+			for(int i = 1; i <= 10; i++) {
 				cbMonedaDestino.addItem(monedas[i]);
 			}
 		}
 		else {
 			cbMonedaDestino.addItem(monedas[0]);
-			for(int i = 1; i <= 5; i++) {
+			for(int i = 1; i <= 10; i++) {
 				cbMonedaOrigen.addItem(monedas[i]);
 			}
 		}
