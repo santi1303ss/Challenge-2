@@ -77,4 +77,4 @@ Receiving objects: 100% (37/37), 20.28 MiB | 2.49 MiB/s, done.
 Resolving deltas: 100% (5/5), done.
 ```
 
-Listo con esto ya lo tendra en tu disposicion y buena suerte en tu camino como programador recuerda que todo es una bendicion * SALUDOS 👋 *
+Listo con esto ya lo tendra en tu disposicion y buena suerte en tu camino como programador recuerda que todo es una bendicion *SALUDOS*. 👋
