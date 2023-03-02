@@ -39,7 +39,7 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera sabía que necesitaba.
 
-### -------------------------------------DESARROLLO DEL EJERCICIO -------------------------------------
+### ---------------------------------DESARROLLO DEL EJERCICIO -------------------------------------
 ## 📜 Funciones de conversión:
 - Longitud ⏲
 - Masa ⏳
