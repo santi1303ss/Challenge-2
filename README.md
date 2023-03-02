@@ -51,17 +51,18 @@ else:
 ?>
 ```
 *En este código, definimos la tasa de cambio entre dólares y pesos colombianos como una constante. Luego, presentamos al usuario una lista de opciones para seleccionar:* **convertir dólares a pesos colombianos o pesos colombianos a dólares**. *Una vez que el usuario selecciona una opción y proporciona la cantidad a convertir, realizamos la conversión según la fórmula correspondiente y mostramos el resultado al usuario.*
-
+ ![texto cualquiera por si no carga la imagen](Images/2.png)
 > Seguido de esto podrian entender la clase que convertira las divisas, la de temperatura es muy semejante y las longitudes pues si cambiara algo pero en si todo parten de unos array que conectaran con condicionales para establecer su valor correspondiente dependeinedo la unidad de medida.
 
 ## INSTALACION 
 > INSTALACIÓN: para usar este proyecto es importante que lo descarges por medio de zip o lo clones por medio de tu repositorio local, si por algun motivo escoges la segunda opcion sigue los siguentes pasos:
  - En GitHub.com, navega a la página principal del repositorio. 1. Encima de la lista de archivos, haga clic en  Código.
- - Copia la dirección URL del repositorio.
+ ![texto cualquiera por si no carga la imagen](Images/Clonar.png)
 
-Para clonar el repositorio con HTTPS, en «HTTPS» haz clic en .
+*Copia la dirección URL del repositorio.*
+Para clonar el repositorio con HTTPS, en «HTTPS» haz clic en.
 Para clonar el repositorio mediante una clave SSH, incluido un certificado emitido por la entidad de certificación SSH de la organización, haga clic en Usar SSH y luego en .
-Para clonar un repositorio mediante GitHub CLI, haz clic en GitHub CLI y, después, haz clic en .
+Para clonar un repositorio mediante GitHub CLI, haz clic en GitHub CLI y, después, haz clic en copiar.
 - . Abra Git Bash.
 - . Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio. 
 - . Escriba git clone y pegue la dirección URL que ha copiado antes. *https://github.com/santi1303ss/Challenge-2.git*
