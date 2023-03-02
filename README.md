@@ -48,7 +48,7 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 - Temperatura 🌡
 - Divisas 💱
 
-> Alura: 
+> Gracias **Alura** : 
 *Bueno principalmente quiero que sepan que soy estudiante de* ***Oracle Next Education***, *mi formacion es virtual por medio de una de las mejores plataformas de aprendizaje, esta es* ***ALura***, *es aqui donde parte este ejercicio el cual fue un verdadero reto ya que puso aprueba mi logica y para mi es una asaña poder traerles este codigo para ustedes, intente hacerlo lo mas completo desde el diseño compacto hasta un funcionamiento limpio.*
 
 ### Ejemplo de codigo
