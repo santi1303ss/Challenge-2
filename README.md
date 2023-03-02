@@ -9,6 +9,9 @@ tenia como principio ser un conversor de divisas, pero que por motivos de creati
 adjuntaron otras funciones donde espero os guste, tambien y espero mi codigo te pueda ayudar 
 entender el entorno tan bello de JAVA
 
+## Ejercicio planteado
+
+
 ## 📜 Funciones de conversión:
 - Longitud ⏲
 - Masa ⏳
