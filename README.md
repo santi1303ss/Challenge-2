@@ -9,9 +9,38 @@ tenia como principio ser un conversor de divisas, pero que por motivos de creati
 adjuntaron otras funciones donde espero os guste, tambien y espero mi codigo te pueda ayudar 
 entender el entorno tan bello de JAVA
 
+  ° *Sigueme en linkedIn https://www.linkedin.com/in/kevin-santiago-lopez-gomez-7bba35207/*
+  
+  ° *Sigueme en instagram https://www.instagram.com/kasanti1303/?next=%2F*
+  
+  ° *Sigueme en Git https://github.com/santi1303ss*
+
 ## Ejercicio planteado
+En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
 
+Requisitos:
+- El convertidor de moneda debe:
 
+       - Convertir de la moneda de tu país a Dólar
+       - Convertir de la moneda de tu país  a Euros
+       - Convertir de la moneda de tu país  a Libras Esterlinas
+       - Convertir de la moneda de tu país  a Yen Japonés
+       - Convertir de la moneda de tu país  a Won sul-coreano
+       
+Recordando que también debe ser posible convertir inversamente, es decir:
+
+       - Convertir de Dólar a la moneda de tu país
+       - Convertir de Euros a la moneda de tu país
+       - Convertir de Libras Esterlinas a la moneda de tu país
+       - Convertir de Yen Japonés a la moneda de tu país
+       - Convertir de Won sul-coreano a la moneda de tu país
+       
+>Extras:
+Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
+
+Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera sabía que necesitaba.
+
+### ---------------------------------------------DESARROLLO DEL EJERCICIO ----------------------------------------------
 ## 📜 Funciones de conversión:
 - Longitud ⏲
 - Masa ⏳
@@ -20,7 +49,7 @@ entender el entorno tan bello de JAVA
 - Divisas 💱
 
 > Alura: 
-*Bueno principalmente quiero que sepan que soy estudiante de* ***Oracle Next Education***, *mi formacion es virtual por medio de una de las mejores plataformas de aprendizaje, esta es* ***ALura***, *es aqui donde parte este ejercicio el cual fue un verdadero reto ya que puso aprueba mi logica y para mi es una asaña porder traerles este codigo para ustedes, intente hacerlo lo mas completo desde el diseño compacto hasta un funcionamiento limpio.*
+*Bueno principalmente quiero que sepan que soy estudiante de* ***Oracle Next Education***, *mi formacion es virtual por medio de una de las mejores plataformas de aprendizaje, esta es* ***ALura***, *es aqui donde parte este ejercicio el cual fue un verdadero reto ya que puso aprueba mi logica y para mi es una asaña poder traerles este codigo para ustedes, intente hacerlo lo mas completo desde el diseño compacto hasta un funcionamiento limpio.*
 
 ### Ejemplo de codigo
 Me gustaria que antes de pasar  con el codigo entiendan como lo diseñe, para la construcion de este me base en Array que son una especie de listas donde una conserva el valor de la moneda y otro lo que vendria siendo el nombre o simbolo de la moneda, pero claro el siguiente sera un ejemplo semejante al codigo fuente del programa que he diseñado.
@@ -54,12 +83,15 @@ else:
 ?>
 ```
 *En este código, definimos la tasa de cambio entre dólares y pesos colombianos como una constante. Luego, presentamos al usuario una lista de opciones para seleccionar:* **convertir dólares a pesos colombianos o pesos colombianos a dólares**. *Una vez que el usuario selecciona una opción y proporciona la cantidad a convertir, realizamos la conversión según la fórmula correspondiente y mostramos el resultado al usuario.*
+
  ![JH xD](Images/2.png)
+ 
 > Seguido de esto podrian entender la clase que convertira las divisas, la de temperatura es muy semejante y las longitudes pues si cambiara algo pero en si todo parten de unos array que conectaran con condicionales para establecer su valor correspondiente dependeinedo la unidad de medida.
 
 ## INSTALACION 
 > INSTALACIÓN: para usar este proyecto es importante que lo descarges por medio de zip o lo clones por medio de tu repositorio local, si por algun motivo escoges la segunda opcion sigue los siguentes pasos:
  - En GitHub.com, navega a la página principal del repositorio. 1. Encima de la lista de archivos, haga clic en  Código.
+ 
  ![Que bendicion ve](Images/Clonar.png)
 
 *Copia la dirección URL del repositorio.*
