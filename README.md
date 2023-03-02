@@ -67,5 +67,12 @@ Para clonar un repositorio mediante GitHub CLI, haz clic en GitHub CLI y, despu√
 - . Escriba git clone y pegue la direcci√≥n URL que ha copiado antes. *https://github.com/santi1303ss/Challenge-2.git*
 - . Presione **Entrar** para crear el clon local.
 ```
-
+$ git clone https://github.com/santi1303ss/Challenge-2.git
+Cloning into 'Challenge-2'...
+remote: Enumerating objects: 37, done.
+remote: Counting objects: 100% (37/37), done.
+remote: Compressing objects: 100% (34/34), done.
+remote: Total 37 (delta 5), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (37/37), 20.28 MiB | 2.49 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
 ```
