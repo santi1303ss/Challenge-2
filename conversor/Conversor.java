@@ -1,6 +1,6 @@
 //Autor Kevin Santiago Lopez
 //sigueme en linkedIn https://www.linkedin.com/in/kevin-santiago-lopez-gomez-7bba35207/
-//Sigueme en instagram
+//Sigueme en instagram https://www.instagram.com/kasanti1303/?next=%2F
 //sSigueme en Git https://github.com/santi1303ss
 
 package conversor_moneda;
