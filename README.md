@@ -48,6 +48,14 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 - Temperatura 🌡
 - Divisas 💱
 
+## 📜 Previas
+- Cuenta con 10 conversiones monetarias distintas 👛
+- Cuenta con un la totalidad de temperaturas : °C, °F, K, °R 🌡
+- Cuenta con una gama muy completa de medidas: 
+        - Longitud ⏲
+        - Masa Ⓜ
+        - Capacidad 👌
+
 > Gracias **Alura** : 
 *Bueno principalmente quiero que sepan que soy estudiante de* ***Oracle Next Education***, *mi formacion es virtual por medio de una de las mejores plataformas de aprendizaje, esta es* ***ALura***, *es aqui donde parte este ejercicio el cual fue un verdadero reto ya que puso aprueba mi logica y para mi es una asaña poder traerles este codigo para ustedes, intente hacerlo lo mas completo desde el diseño compacto hasta un funcionamiento limpio.*
 
