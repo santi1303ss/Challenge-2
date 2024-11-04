@@ -1,18 +1,8 @@
-# Challenge-2
-### Welcome to my repo! :P 👋 
-### "Un conversor muy simpático con codigo hecho en java, espero le den amor ya que me costo mucho hacerlo". &lt;3
+# Ejemplo
+### De mi 
+### Pryecto de conversiones
 
-👋Hola, mi nombre es Kevin Santiago! soy de colombia y me puedes decir Santi, bueno en esta 
-oportunidad tuve la certeza de realizar un codigo bastante limpio de un conversor, el cual 
-tenia como principio ser un conversor de divisas, pero que por motivos de creatividad se le 
-adjuntaron otras funciones donde espero os guste, tambien y espero mi codigo te pueda ayudar 
-entender el entorno tan bello de JAVA
-
-  ° *Sigueme en linkedIn https://www.linkedin.com/in/kevin-santiago-lopez-gomez-7bba35207/*
-  
-  ° *Sigueme en instagram https://www.instagram.com/kasanti1303/?next=%2F*
-  
-  ° *Sigueme en Git https://github.com/santi1303ss*
+👋Hola, el dia de hoy hablaremos sobre el desarrollo de un pequeño proyecto desarrolaldo en ALura, como ejemplo para nuestro markdown 
 
 ## Ejercicio planteado
 En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
@@ -91,7 +81,7 @@ else:
 ```
 *En este código, definimos la tasa de cambio entre dólares y pesos colombianos como una constante. Luego, presentamos al usuario una lista de opciones para seleccionar:* **convertir dólares a pesos colombianos o pesos colombianos a dólares**. *Una vez que el usuario selecciona una opción y proporciona la cantidad a convertir, realizamos la conversión según la fórmula correspondiente y mostramos el resultado al usuario.*
 
- ![JH xD](Images/2.png)
+ ![UwU ](Images/2.png)
  
 > Seguido de esto podrian entender la clase que convertira las divisas, la de temperatura es muy semejante y las longitudes pues si cambiara algo pero en si todo parten de unos array que conectaran con condicionales para establecer su valor correspondiente dependeinedo la unidad de medida, tambien puedes ver mas imagenes en la carpeta que se encuentra en el repositorio.
 
@@ -99,7 +89,7 @@ else:
 > INSTALACIÓN: para usar este proyecto es importante que lo descarges por medio de zip o lo clones por medio de tu repositorio local, si por algun motivo escoges la segunda opcion sigue los siguentes pasos:
  - En GitHub.com, navega a la página principal del repositorio. 1. Encima de la lista de archivos, haga clic en  Código.
  
- ![Que bendicion ve](Images/Clonar.png)
+ ![Hellow ](Images/Clonar.png)
 
 *Copia la dirección URL del repositorio.*
 Para clonar el repositorio con HTTPS, en «HTTPS» haz clic en.
@@ -107,17 +97,8 @@ Para clonar el repositorio mediante una clave SSH, incluido un certificado emiti
 Para clonar un repositorio mediante GitHub CLI, haz clic en GitHub CLI y, después, haz clic en copiar.
 - . Abra Git Bash.
 - . Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio. 
-- . Escriba git clone y pegue la dirección URL que ha copiado antes. *https://github.com/santi1303ss/Challenge-2.git*
+- . Escriba git clone y pegue la dirección URL que ha copiado antes.
 - . Presione **Entrar** para crear el clon local.
-```
-$ git clone https://github.com/santi1303ss/Challenge-2.git
-Cloning into 'Challenge-2'...
-remote: Enumerating objects: 37, done.
-remote: Counting objects: 100% (37/37), done.
-remote: Compressing objects: 100% (34/34), done.
-remote: Total 37 (delta 5), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (37/37), 20.28 MiB | 2.49 MiB/s, done.
-Resolving deltas: 100% (5/5), done.
 ```
 
 Listo con esto ya lo tendra en tu disposicion y buena suerte en tu camino como programador recuerda que todo es una bendicion *SALUDOS*. 👋
